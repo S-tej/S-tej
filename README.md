@@ -9,9 +9,9 @@
   <a href="https://www.codechef.com/users/s_tej"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
 </p>
 
----
 ![Visitor Count](https://komarev.com/ghpvc/?username=S-tej&label=Profile%20views&color=0e75b6&style=flat)
 
+---
 
 ## 🌟 About Me
 
@@ -100,10 +100,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/S-tej/S-tej/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
-
-## 💡 Fun Fact
-
-> I love turning complex systems into simple and beautiful user experiences!
 
 ---
