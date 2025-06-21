@@ -92,13 +92,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-tej&layout=compact&theme=radical&border_radius=10&langs_count=8" width="60%" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/S-tej/S-tej/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
 ---
