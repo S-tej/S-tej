@@ -86,10 +86,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-tej&show_icons=true&theme=radical&border_radius=10" width="48%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-tej&theme=radical&border_radius=10" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-tej&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-tej&layout=compact&theme=radical&border_radius=10&langs_count=8" width="60%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-tej&layout=compact&theme=radical&border_radius=10&langs_count=8" width="60%" /> -->
 </p>
 ---
