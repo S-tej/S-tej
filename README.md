@@ -1,95 +1,69 @@
-<h1 align="center">Hi 👋, I'm Vajrapu Swaran Tej</h1>
+# Hi there, I'm Swaran Tej 👋  
 
-<p align="center">
-  <a href="mailto:swarantejvajrapu1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/swaran-tej-5953a3217/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/S-tej"><img src="https://img.shields.io/github/followers/S-tej?style=social"/></a>
-  <a href="https://leetcode.com/u/s-tej/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/swarantejvajrapu8055"><img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/s_tej"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
-</p>
+🎓 **Computer Science Undergraduate @ IIITDM Jabalpur**  
+📍 Vijayawada, Andhra Pradesh  
+💻 Passionate about **Full-Stack Development, Workflow Automation & Problem Solving**  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=S-tej&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=s-tej&label=Profile%20Views&color=0e75b6&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-tej)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/s-tej/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/s-tej)  
 
 ---
 
-## 🌟 About Me
-
-🎓 **Computer Science Engineering Student** at **IIIT Jabalpur**  
-📍 Batch: 2022–2026  
-💡 Passionate about full-stack development, system design, and problem-solving  
-📫 Reach me at: **swarantejvajrapu1@gmail.com**
-
----
-
-## 💼 Projects
-
-### 🍽️ [FoodByte](https://github.com/S-tej/FoodByte)
-**Stack:** Next.js, MongoDB, Google Auth, Cloudinary, Stripe  
-- Built a 3-level online food ordering platform  
-- Stripe integration reduced payment issues by 25%  
-- Scaled backend to handle 1000+ orders
-
-### ⚙️ [Fusion ERP Portal](https://github.com/S-tej/Fusion-client)
-**Stack:** React.js, Django Rest Framework, Mantine UI  
-- Refactored IIITJ’s ERP Portal used by 2000+ students  
-- Migrated from legacy stack to modern frontend + DRF backend  
-- Reduced admin task time by 15%
-
-### 🎮 [BrickBreaker](https://github.com/S-tej/BrickBreaker)
-**Stack:** Java (OOP), Java Swing  
-- Developed an immersive arcade game  
-- Features: Dynamic difficulty, power-ups, sound effects  
-- Enhanced performance by 20% via rendering optimization
+## 🚀 About Me
+- 💡 Exploring **application development** and **workflow automation** to build impactful solutions.  
+- 🔭 Currently serving as **Institute ERP Team Lead**, leading a 10-member team migrating ERP modules from Django → ReactJS.  
+- 📚 Strong foundation in **DSA, OS, Networking, DBMS, and OOPs**.  
+- 🤝 Open to **internship & full-time opportunities** in software development.  
 
 ---
 
-## 🧠 Skills
-
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks & Tools:**  
-![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Databases:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack
+**Languages:** C, C++, Python, Java, JavaScript, TypeScript  
+**Frameworks:** ReactJS, NextJS, Django, Express, NestJS  
+**Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+**Tools & Platforms:** Git, GitHub, Docker  
 
 ---
 
-## 🏆 Competitive Programming
+## 📌 Projects
+### 🔹 [HGS](https://github.com/s-tej/HGS) | *React Native, ESP32, Firebase, Twilio*  
+Healthcare monitoring device + Android app for elderly care.  
+- Real-time mobile interface with Wi-Fi enabled ESP32 sensors (ECG, SpO2).  
+- Alert system for caregivers using Twilio.  
 
-- 💻 **Codeforces** – Pupil (Max Rating: 1320)  
-- 🍲 **CodeChef** – 3★ (Max Rating: 1670, Rank 45 in Starters-155)  
-- 🔎 **LeetCode** – Max Rating: 1770, solved 500+ problems  
-- 📚 Solved over **700+ problems** on various coding platforms
+### 🔹 [Palot](https://github.com/s-tej/palot) | *NextJS, NestJS, GraphQL, Prisma, PostgreSQL, Stripe*  
+Parking management solution with modern monorepo architecture.  
+- Implemented **garage listing, booking, payments (Stripe), wallet & pickup/drop-off**.  
+
+### 🔹 [FoodByte](https://github.com/s-tej/FoodByte) | *NextJS, MongoDB, OAuth, Cloudinary, Stripe, Kafka*  
+A 3-level user food ordering platform.  
+- Integrated **Stripe payments with Kafka** for async event handling.  
+- Restaurant owners manage menus & orders with ease.  
 
 ---
 
-## 🎯 Experience & Leadership
-
-- 👨‍🏫 **Student Guide, Counselling Committee (2023–24):** Mentored 30+ juniors academically & emotionally  
-- 🗣️ **Elected Senate Member (2023–24):** Advocated student concerns to the administration  
+## 🏆 Achievements & Activities
+- 🧑‍🏫 **Student Guide** – mentored 10+ students in academics & personal growth.  
+- 🏛️ **Student Senate Representative** – contributed to campus governance for 500+ students.  
+- 💡 **LeetCode Max Rating:** 1844 | Solved **550+ problems**.  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+![Swaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-tej&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-tej&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=s-tej&theme=tokyonight&hide_border=false)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-tej&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-tej&theme=radical&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-tej&layout=compact&theme=radical&border_radius=10&langs_count=8" width="60%" />
-</p>
 ---
+
+## 📫 Connect with Me
+- ✉️ [Email](mailto:swarantejvajrapu1@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/s-tej)  
+- 🖥️ [GitHub](https://github.com/s-tej)  
+- 🧩 [LeetCode](https://leetcode.com/u/s-tej/)  
+
+---
+
+⭐️ From [s-tej](https://github.com/s-tej)
