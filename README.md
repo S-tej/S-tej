@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 - 💡 Exploring **application development** and **workflow automation** to build impactful solutions.  
-- 🔭 Currently serving as **Institute ERP Team Lead**, leading a 10-member team migrating ERP modules from Django → ReactJS.  
 - 📚 Strong foundation in **DSA, OS, Networking, DBMS, and OOPs**.  
 - 🤝 Open to **internship & full-time opportunities** in software development.  
 
@@ -48,13 +47,6 @@ A 3-level user food ordering platform.
 - 🧑‍🏫 **Student Guide** – mentored 10+ students in academics & personal growth.  
 - 🏛️ **Student Senate Representative** – contributed to campus governance for 500+ students.  
 - 💡 **LeetCode Max Rating:** 1844 | Solved **550+ problems**.  
-
----
-
-## 📊 GitHub Stats
-![Swaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-tej&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-tej&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=s-tej&theme=tokyonight&hide_border=false)  
 
 ---
 
